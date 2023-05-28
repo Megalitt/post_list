@@ -1,0 +1,42 @@
+.post {
+  border: 2px solid #f8d1d1;
+  margin-bottom: 10px;
+  border-radius: 10px;
+  max-width: 800px;
+  padding: 15px;
+  
+}
+.post img {
+  width: 140px;
+  height: 100px;
+  border-radius: 10px;
+}
+h2 {
+  color: #803939;
+  font-size: 28px;
+}
+.post button {
+  width: 150px;
+  height: 50px;
+  font-size: 18px;
+  font-weight: 600;
+  border-radius: 10px;
+  background: #e7d4d4;
+  margin: 10px 15px 15px 600px;
+  bottom: 20px;
+  cursor: pointer;
+  border: none;
+}
+.post button p {
+  text-align: center;
+  line-height: 10px;
+}
+.post button:hover {
+  background: #e6aeae;
+  box-shadow: 2px 4px 0px #e9a3a3;
+}
+.post button:active {
+  background: #eeb9b9;
+  box-shadow: 2px 2px 10px #f39292;
+  color: #fff;
+}
