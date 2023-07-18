@@ -17,7 +17,7 @@ const AboutMe = () => {
         <span>Основные навыки:</span> адаптивная/отзывчивая, кроссбраузерная верстка сайта из Figma(Pixso). Pixel Perfect верстка. Анимации на js, css, jQuery. Работа с DOM на JS. Активное использование плагина Emmet.<br/><br/>
         <span>Примеры работ:</span><br/>
         <a href="https://getterfoll.ru/" alt="none">https://getterfoll.ru/</a><br/>
-        <a href="http://sdf.getterfoll.ru/" alt="none">http://sdf.getterfoll.ru/</a><br/><br/>
+        <a href="https://getterfoll.store/" alt="none">http://sdf.getterfoll.ru/</a><br/><br/>
         <span>GitHub: </span><a href='https://github.com/Megalitt?tab=repositories' alt="none">https://github.com/Megalitt?tab=repositories</a> <br/><br/>
         В последние годы работал по другой специальности.
         Имею опыт и знания в электротехнике.<br/><br/>
